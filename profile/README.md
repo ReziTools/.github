@@ -4,11 +4,11 @@
 
 We are a group of engineers, developers and students building tools for engineering.
 
-Our main project is ReziEngine, a mechanical load simulator with a graphical interface.
+Our main project is ReziSim, a web based mechanical load simulator.
 
 Out currently unreleased and planned projects include:
-- ReziSim
-The successor to ReziEngine, rebuilt for 3D.
+- ReziEngine
+The predecessor of ReziSim, built as a native application with optional web support.
 - ReziDraw
 A direct modeling 2D CAD program.
 - ReziEpura
