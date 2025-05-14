@@ -1,10 +1,10 @@
 # ReziTools
 
-## Building next-generation open-source tools for engineering.
+## Building next-generation tools for engineering.
 
 We are a group of engineers, developers and students building tools for engineering.
 
-Our main project is ReziSolids, a web based mechanical load simulator.
+Our main project is ReziSolids, a multiplatform FEM solver, visualizer with realtime capabilities.
 
 Out currently unreleased and planned projects include:
 - ReziDraw
